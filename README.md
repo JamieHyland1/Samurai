@@ -25,5 +25,3 @@ I had a lot of fun making a game in this software, as it provided a feel for wha
 
 
 I've included the game file so you can download and import it into Pico-8 to modify and play it. Enjoy! :smile:
-
-You can download the game file here: [Samurai Game File](link_to_game_file)
