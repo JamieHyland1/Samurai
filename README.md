@@ -5,7 +5,7 @@
 
 
 ![Samurai - 2]
-(https://github.com/JamieHyland1/Samurai/blob/main/samurai_1.gif)
+(raw/samurai_1.gif)
 
 
 I've added the game file if you wanted to download the game and import it into pico-8 so you can modify it and play it :D enjoy!
